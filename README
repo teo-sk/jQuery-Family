@@ -2,3 +2,22 @@
  * It defines extra family relationships between elements for
  * easement of calling multiple relationship calls based on their
  * connectivity.
+
+
+Currently available functions:
+
+    * $(selector).grandpa()
+    * $(selector).grandma() (same as above)
+    * $(selector).grandchildren()
+    * $(selector).uncle()
+    * $(selector).aunt() (same as above)
+    * $(selector).cousin()
+    * $(selector).nephew()
+    * $(selector).niece() (same as above)
+    * $(selector).stepNephew()
+    * $(selector).stepNiece() (same as above)
+    * $(selector).stepCousin()
+
+
+Download: http://plugins.jquery.com/project/family/
+Demo: http://sandbox.teo.sk/jquery-family/
