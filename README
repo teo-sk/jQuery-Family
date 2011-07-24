@@ -1,0 +1,4 @@
+ * This plugin is made for easement of DOM search in jQuery.
+ * It defines extra family relationships between elements for
+ * easement of calling multiple relationship calls based on their
+ * connectivity.
